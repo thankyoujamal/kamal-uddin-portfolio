@@ -3,7 +3,7 @@
 Personal portfolio site for **Mohammad Kamal Uddin**, Hospital Administration
 Professional and MRD Incharge at Salt Lake City Medical Centre, Kolkata.
 
-**Live site:** _(added after the first Vercel deploy)_
+**Live site:** https://kamal-uddin-portfolio.vercel.app
 
 ## Stack
 
@@ -40,7 +40,12 @@ Accessibility and performance behaviours built in:
 
 ## Deployment
 
-Hosted on [Vercel](https://vercel.com). Pushes to `main` deploy automatically.
+Hosted on [Vercel](https://vercel.com) as a static site — no build step, no
+build command, no output directory.
+
+```bash
+vercel deploy --prod
+```
 
 ## Sections
 
