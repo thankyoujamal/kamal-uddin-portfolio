@@ -43,8 +43,12 @@ Accessibility and performance behaviours built in:
 Hosted on [Vercel](https://vercel.com) as a static site — no build step, no
 build command, no output directory.
 
+The GitHub repo is connected, so **every push to `main` deploys automatically**.
+
 ```bash
-vercel deploy --prod
+git add -A
+git commit -m "your message"
+git push          # Vercel builds and goes live in ~30s
 ```
 
 ## Sections
