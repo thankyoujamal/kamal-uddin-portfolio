@@ -13,13 +13,7 @@ Salt Lake City Medical Centre, Kolkata
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![No Framework](https://img.shields.io/badge/Dependencies-Zero-2ea44f?style=flat-square)
 
-<br/>
 
-<img src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://kamal-uddin-portfolio.vercel.app" alt="Portfolio desktop preview" width="850"/>
-
-*A dark-teal themed single-page portfolio with a live animated lattice background*
-
-<br/>
 
 ### 📸 Site Preview
 
@@ -34,6 +28,13 @@ Salt Lake City Medical Centre, Kolkata
 
 </div>
 
+<br/>
+
+<img src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://kamal-uddin-portfolio.vercel.app" alt="Portfolio desktop preview" width="850"/>
+
+*A dark-teal themed single-page portfolio with a live animated lattice background*
+
+<br/>
 ---
 
 ## ✨ Highlights
