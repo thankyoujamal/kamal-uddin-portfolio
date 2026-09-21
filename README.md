@@ -30,7 +30,7 @@ Salt Lake City Medical Centre, Kolkata
 
 <br/>
 
-<img src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://kamal-uddin-portfolio.vercel.app" alt="Portfolio desktop preview" width="860"/>
+<img src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://kamal-uddin-portfolio.vercel.app" alt="Portfolio desktop preview" width="100%"/>
 
 *A dark-teal themed single-page portfolio with a live animated lattice background*
 
