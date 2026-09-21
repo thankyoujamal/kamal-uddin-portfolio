@@ -29,10 +29,6 @@ Salt Lake City Medical Centre, Kolkata
 <b>💻 Full Page — Desktop</b><br/><br/>
 <img src="https://image.thum.io/get/fullpage/width/800/noanimate/https://kamal-uddin-portfolio.vercel.app" alt="Full page desktop view" width="100%"/>
 </td>
-<td align="center" width="40%">
-<b>📱 Mobile View</b><br/><br/>
-<img src="https://image.thum.io/get/fullpage/viewportWidth/480/width/380/noanimate/https://kamal-uddin-portfolio.vercel.app" alt="Mobile view" width="70%"/>
-</td>
 </tr>
 </table>
 
